@@ -11,8 +11,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-<issu с github>
-<issu с github>
+[Issues](https://github.com/Lars175/JAVA_Task1/issues/1#issue-610791638)
+[Issues](https://github.com/Lars175/JAVA_Task1/issues/2#issuecomment-622425640)
 
 В процессе тестирования использовались следующие артефакты:
 
